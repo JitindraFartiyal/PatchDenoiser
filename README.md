@@ -19,4 +19,4 @@ Overall, PatchDenoiser offers a balanced combination of denoising performance, r
 ![Patch Fusion Module](figs\PFM.png)
 
 # Results
-![](figs\quantitative_results.png)
+![Results](figs\quantitative_results.png)
