@@ -13,10 +13,10 @@ Overall, PatchDenoiser offers a balanced combination of denoising performance, r
 
 # Architecture Design
 ## PatchDenoiser Main Diagram
-![PatchDenoiser Overall Diagram](figs\PatchDenoiser Overall Diagram.png)
+![PatchDenoiser](figs\PatchDenoiser Overall Diagram.png)
 
 ## Patch Fusion Module (PFM)
-![Patch Fusion Module](figs\PFM.png)
+![PatchFusionModule](figs\PFM.png)
 
 # Results
 ![Results](figs\quantitative_results.png)
